@@ -1,0 +1,28 @@
+common:
+    workers: 8
+
+    num_points: 1024
+    num_classes: 40
+    batch_size: 16
+    
+    base_lr: 0.002
+    lr_clip: 0.00001
+    lr_decay: 0.7
+    decay_step: 25
+    epochs: 300
+
+    weight_decay: 0
+    bn_momentum: 0.9
+    bnm_clip: 0.01
+    bn_decay: 0.5
+    
+    evaluate: 1
+    val_freq_epoch: 0.5   # frequency in epoch for validation, can be decimals
+    print_freq_iter: 20   # frequency in iteration for printing infomation
+    
+    input_channels: 0     # feature channels except (x, y, z)
+    relation_prior: 1
+    num_kernel: 4 # the number of the dynamic kernel
+    
+    checkpoint: ''
+    data_root: ./data
