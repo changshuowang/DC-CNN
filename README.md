@@ -65,3 +65,7 @@ contact email: [wangchangshuo@semi.ac.cn](wangchangshuo@semi.ac.cn).
 ## Acknowledgement
 
 Our code base is partially borrowed from [EllipsoidQuery](https://github.com/VimsLab/EllipsoidQuery), [RS-CNN](https://github.com/Yochengliu/Relation-Shape-CNN/) and [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch).
+
+## LICENSE
+DC-CNN is under the Apache-2.0 license. 
+Please contact the authors for commercial use.
