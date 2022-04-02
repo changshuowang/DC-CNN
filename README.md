@@ -5,7 +5,7 @@
 by [Changshuo Wang*](https://www.changshuowang.site/about/), [Han Wang](), [Xin Ning](), [Weisheng Tian](), and [Weijun Li]().
 
 ## Introduction
-This code submission is to reproduce **3D Point Cloud Classification Method Based on Dynamic Coverage of Local Area**.<br>
+This code is the pytorch 0.4 version of DC-CNN to reproduce **3D Point Cloud Classification Method Based on Dynamic Coverage of Local Area** on the ModelNet40.<br>
 
 Requirement
 ----------------------
